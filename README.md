@@ -11,7 +11,7 @@ you can run from your web browser without installing any software.
 
 Step 1: open [Google Colab](https://colab.research.google.com/).
 
-Step 2: paste https://github.com/benedictpaten/intro_python into the
+Step 2: paste https://github.com/cormacflanagan/intro_python into the
 Github URL search box under the Github tab (hit return).
 
 Step 3: pick the notebook for the lecture you want.
